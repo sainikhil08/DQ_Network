@@ -1,0 +1,204 @@
+Results based on DQ-Learning Action:
+Reward for episode 1 : 49.93127572991048
+Sucessful mix  Time Taken (in Sec): 4.843432664871216
+Reward for episode 2 : 49.96141755759038
+Sucessful mix  Time Taken (in Sec): 4.113120079040527
+Reward for episode 3 : 49.972701796223866
+Sucessful mix  Time Taken (in Sec): 3.3040497303009033
+Reward for episode 4 : 49.936893116696126
+Sucessful mix  Time Taken (in Sec): 3.0022764205932617
+Reward for episode 5 : 49.92938085421072
+Sucessful mix  Time Taken (in Sec): 3.055483818054199
+Reward for episode 6 : 49.94242775173747
+Sucessful mix  Time Taken (in Sec): 3.1492083072662354
+Reward for episode 7 : 49.95465918205894
+Sucessful mix  Time Taken (in Sec): 3.102245807647705
+Reward for episode 8 : 49.9404857092595
+Sucessful mix  Time Taken (in Sec): 2.9967761039733887
+Reward for episode 9 : 49.96441391515988
+Sucessful mix  Time Taken (in Sec): 3.5199756622314453
+Reward for episode 10 : 49.97491434973394
+Sucessful mix  Time Taken (in Sec): 3.236663818359375
+Reward for episode 11 : 49.92893312790584
+Sucessful mix  Time Taken (in Sec): 3.04056978225708
+Reward for episode 12 : 49.90124451597497
+Sucessful mix  Time Taken (in Sec): 3.133518695831299
+Reward for episode 13 : 49.89447096349069
+Sucessful mix  Time Taken (in Sec): 2.9766147136688232
+Reward for episode 14 : 49.90254857705636
+Sucessful mix  Time Taken (in Sec): 3.21443510055542
+Reward for episode 15 : 49.95819873377839
+Sucessful mix  Time Taken (in Sec): 3.0677270889282227
+Reward for episode 16 : 49.95322989170697
+Sucessful mix  Time Taken (in Sec): 3.9189014434814453
+Reward for episode 17 : 49.90870916761456
+Sucessful mix  Time Taken (in Sec): 4.054515838623047
+Reward for episode 18 : 49.92069814646642
+Sucessful mix  Time Taken (in Sec): 3.8381576538085938
+Reward for episode 19 : 49.96446897754075
+Sucessful mix  Time Taken (in Sec): 3.3880598545074463
+Reward for episode 20 : 49.93683276359796
+Sucessful mix  Time Taken (in Sec): 3.7403953075408936
+Reward for episode 21 : 49.946437271061015
+Sucessful mix  Time Taken (in Sec): 3.1070566177368164
+Reward for episode 22 : 49.971039967550624
+Sucessful mix  Time Taken (in Sec): 3.3087668418884277
+Reward for episode 23 : 49.92736628838062
+Sucessful mix  Time Taken (in Sec): 3.0317702293395996
+Reward for episode 24 : 49.9405098497887
+Sucessful mix  Time Taken (in Sec): 3.7307586669921875
+Reward for episode 25 : 49.89060587198094
+Sucessful mix  Time Taken (in Sec): 3.3448450565338135
+Reward for episode 26 : 49.89122461828889
+Sucessful mix  Time Taken (in Sec): 3.0680644512176514
+Reward for episode 27 : 49.908544955478504
+Sucessful mix  Time Taken (in Sec): 3.212017774581909
+Reward for episode 28 : 49.94108894061333
+Sucessful mix  Time Taken (in Sec): 3.8339650630950928
+Reward for episode 29 : 49.96146938261397
+Sucessful mix  Time Taken (in Sec): 4.097517013549805
+Reward for episode 30 : 49.97363091215213
+Sucessful mix  Time Taken (in Sec): 3.181879758834839
+Reward for episode 31 : 49.96791930834937
+Sucessful mix  Time Taken (in Sec): 3.6361358165740967
+Reward for episode 32 : 49.95380086843826
+Sucessful mix  Time Taken (in Sec): 3.7213640213012695
+Reward for episode 33 : 49.95268874699349
+Sucessful mix  Time Taken (in Sec): 3.8008837699890137
+Reward for episode 34 : 49.947632318483095
+Sucessful mix  Time Taken (in Sec): 3.738462448120117
+Reward for episode 35 : 49.90378825050679
+Sucessful mix  Time Taken (in Sec): 4.009613752365112
+Reward for episode 36 : 49.897655671237096
+Sucessful mix  Time Taken (in Sec): 3.7800052165985107
+Reward for episode 37 : 49.85851744355014
+Sucessful mix  Time Taken (in Sec): 3.944197177886963
+Reward for episode 38 : 49.895004054754544
+Sucessful mix  Time Taken (in Sec): 3.860867738723755
+Reward for episode 39 : 49.908762208012064
+Sucessful mix  Time Taken (in Sec): 3.838895559310913
+Reward for episode 40 : 49.93973597181893
+Sucessful mix  Time Taken (in Sec): 3.2473843097686768
+Reward for episode 41 : 49.936838557654035
+Sucessful mix  Time Taken (in Sec): 3.765515089035034
+Reward for episode 42 : 49.93868834302118
+Sucessful mix  Time Taken (in Sec): 3.881094455718994
+Reward for episode 43 : 49.918696524570635
+Sucessful mix  Time Taken (in Sec): 3.7859339714050293
+Reward for episode 44 : 49.94249400252606
+Sucessful mix  Time Taken (in Sec): 3.7452456951141357
+Reward for episode 45 : 49.923538277522375
+Sucessful mix  Time Taken (in Sec): 3.7589402198791504
+Reward for episode 46 : 49.95371159949466
+Sucessful mix  Time Taken (in Sec): 3.83306622505188
+Reward for episode 47 : 49.96270145648825
+Sucessful mix  Time Taken (in Sec): 3.763711929321289
+Reward for episode 48 : 49.933100608916895
+Sucessful mix  Time Taken (in Sec): 3.8130669593811035
+Reward for episode 49 : 49.918525748811994
+Sucessful mix  Time Taken (in Sec): 3.750709056854248
+Reward for episode 50 : 49.86472958303807
+Sucessful mix  Time Taken (in Sec): 3.929877996444702
+Reward for episode 51 : 49.858262128209056
+Sucessful mix  Time Taken (in Sec): 3.830406427383423
+Reward for episode 52 : 49.87330428455871
+Sucessful mix  Time Taken (in Sec): 3.583179235458374
+Reward for episode 53 : 49.91215369384605
+Sucessful mix  Time Taken (in Sec): 3.9265356063842773
+Reward for episode 54 : 49.94336836397787
+Sucessful mix  Time Taken (in Sec): 3.889225721359253
+Reward for episode 55 : 49.91043746421995
+Sucessful mix  Time Taken (in Sec): 3.964254140853882
+Reward for episode 56 : 49.93357875711779
+Sucessful mix  Time Taken (in Sec): 3.72129487991333
+Reward for episode 57 : 49.889182309526774
+Sucessful mix  Time Taken (in Sec): 3.773937225341797
+Reward for episode 58 : 49.882386053997216
+Sucessful mix  Time Taken (in Sec): 3.7899625301361084
+Reward for episode 59 : 49.89002595484543
+Sucessful mix  Time Taken (in Sec): 3.8342833518981934
+Reward for episode 60 : 49.90847552677414
+Sucessful mix  Time Taken (in Sec): 3.9253108501434326
+Reward for episode 61 : 49.90670037212727
+Sucessful mix  Time Taken (in Sec): 3.736593008041382
+Reward for episode 62 : 49.935381319288375
+Sucessful mix  Time Taken (in Sec): 3.9422338008880615
+Reward for episode 63 : 49.94408671108227
+Sucessful mix  Time Taken (in Sec): 3.7967357635498047
+Reward for episode 64 : 49.93060490490402
+Sucessful mix  Time Taken (in Sec): 3.386164903640747
+Reward for episode 65 : 49.96268912457962
+Sucessful mix  Time Taken (in Sec): 3.5120327472686768
+Reward for episode 66 : 49.965609588972455
+Sucessful mix  Time Taken (in Sec): 4.082921743392944
+Reward for episode 67 : 49.982827794491456
+Sucessful mix  Time Taken (in Sec): 3.6980762481689453
+Reward for episode 68 : 49.957848451970825
+Sucessful mix  Time Taken (in Sec): 3.7525885105133057
+Reward for episode 69 : 49.971170626278045
+Sucessful mix  Time Taken (in Sec): 3.7152109146118164
+Reward for episode 70 : 49.95723450937552
+Sucessful mix  Time Taken (in Sec): 3.7316064834594727
+Reward for episode 71 : 49.94672019014914
+Sucessful mix  Time Taken (in Sec): 3.692831039428711
+Reward for episode 72 : 49.89811998329408
+Sucessful mix  Time Taken (in Sec): 4.053042650222778
+Reward for episode 73 : 49.88602633027274
+Sucessful mix  Time Taken (in Sec): 4.18377423286438
+Reward for episode 74 : 49.90776532692768
+Sucessful mix  Time Taken (in Sec): 3.872983455657959
+Reward for episode 75 : 49.89688945560061
+Sucessful mix  Time Taken (in Sec): 3.871617555618286
+Reward for episode 76 : 49.92474016012166
+Sucessful mix  Time Taken (in Sec): 4.028429269790649
+Reward for episode 77 : 49.93676535906969
+Sucessful mix  Time Taken (in Sec): 3.9185643196105957
+Reward for episode 78 : 49.90020950472933
+Sucessful mix  Time Taken (in Sec): 3.810619354248047
+Reward for episode 79 : 49.9287211555135
+Sucessful mix  Time Taken (in Sec): 3.880946397781372
+Reward for episode 80 : 49.92159895587818
+Sucessful mix  Time Taken (in Sec): 3.8947536945343018
+Reward for episode 81 : 49.97017370843738
+Sucessful mix  Time Taken (in Sec): 3.5515730381011963
+Reward for episode 82 : 49.94252549820068
+Sucessful mix  Time Taken (in Sec): 3.973267078399658
+Reward for episode 83 : 49.94847208112285
+Sucessful mix  Time Taken (in Sec): 3.7834560871124268
+Reward for episode 84 : 49.95915325449013
+Sucessful mix  Time Taken (in Sec): 3.9164607524871826
+Reward for episode 85 : 49.957448650853394
+Sucessful mix  Time Taken (in Sec): 3.889951705932617
+Reward for episode 86 : 49.92752685694816
+Sucessful mix  Time Taken (in Sec): 3.7810590267181396
+Reward for episode 87 : 49.90042693464495
+Sucessful mix  Time Taken (in Sec): 3.6715643405914307
+Reward for episode 88 : 49.90687431765119
+Sucessful mix  Time Taken (in Sec): 3.8715462684631348
+Reward for episode 89 : 49.88220238004759
+Sucessful mix  Time Taken (in Sec): 3.8838512897491455
+Reward for episode 90 : 49.84213412843473
+Sucessful mix  Time Taken (in Sec): 3.792827844619751
+Reward for episode 91 : 49.85575327427964
+Sucessful mix  Time Taken (in Sec): 3.8676140308380127
+Reward for episode 92 : 49.887345953040494
+Sucessful mix  Time Taken (in Sec): 3.8128347396850586
+Reward for episode 93 : 49.871994253354586
+Sucessful mix  Time Taken (in Sec): 3.895033359527588
+Reward for episode 94 : 49.86417380280165
+Sucessful mix  Time Taken (in Sec): 3.789977788925171
+Reward for episode 95 : 49.86884638622314
+Sucessful mix  Time Taken (in Sec): 3.9093165397644043
+Reward for episode 96 : 49.91316541659829
+Sucessful mix  Time Taken (in Sec): 3.7978501319885254
+Reward for episode 97 : 49.90899871369312
+Sucessful mix  Time Taken (in Sec): 3.9710514545440674
+Reward for episode 98 : 49.95963022167322
+Sucessful mix  Time Taken (in Sec): 4.026922225952148
+Reward for episode 99 : 49.946439264727104
+Sucessful mix  Time Taken (in Sec): 3.8225696086883545
+Reward for episode 100 : 49.90136385337811
+Sucessful mix  Time Taken (in Sec): 3.7318389415740967
+
+Number of Successful attempts: 100
+Total time taken : 369.7584230899811 seconds
